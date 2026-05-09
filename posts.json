@@ -8962,24 +8962,385 @@
         "has_links": false,
         "source": "https://t.me/IRNOTPHONE/1476"
       }
+    ],
+    "Break_The_Barriers": [
+      {
+        "id": 1517,
+        "text": "این‌گونه.",
+        "date": "2026-05-08T14:41:50+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1517_0_30414c7e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1517_1_516bf14d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Break_The_Barriers/1517"
+      },
+      {
+        "id": 1516,
+        "text": "دیدم خیلی دنبال میرور بودن یک‌عده، گفتم شاید به دردتون بخوره.",
+        "date": "2026-05-07T11:39:37+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1516_0_30414c7e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Break_The_Barriers/1516"
+      },
+      {
+        "id": 1515,
+        "text": "نصب آخرین نسخه 2.9.4 پنل 3X-UI سنایی روی سرور ایران\nفایل\nx-ui-linux-amd64.tar.gz\nرا دانلود و در\nroot\nسرور ایران کپی کنید و سپس اسکریپت زیر رو اجرا کنید.\nsudo tar zxvf x-ui-linux-amd64.tar.gz && sudo chmod +x x-ui/x-ui && sudo chmod +x x-ui/bin/xray-linux-amd64 && sudo chmod +x x-ui/x-ui.sh && sudo cp -r x-ui /usr/local/ && sudo cp x-ui/x-ui.service.debian /etc/systemd/system/x-ui.service && sudo cp x-ui/x-ui.sh /usr/bin/x-ui && sudo chmod +x /usr/bin/x-ui && sudo systemctl daemon-reload && sudo systemctl enable x-ui && sudo systemctl start x-ui\nدستور برای دیدن وضعیت سرویس:\nsudo systemctl status x-ui\nدر نهایت پنل با آدرس آی‌پی سرور و پورت\n2053\nبالا میاد.\nhttp://SERVER-IP:2053\nهم یوزرنیم و هم پسورد جهت ورود به پنل\nadmin\nاست.\n🚨\nپس از اولین ورود، حتماً اطلاعات لاگین(یوزرنیم و پسورد)، پورت پنل و  مسیر(path) را تغییر دهید.\n@break_the_barriers",
+        "date": "2026-05-07T11:36:37+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1515_0_30414c7e.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "http://SERVER-IP:2053",
+            "type": "external",
+            "display_text": "http://SERVER-IP:2053"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/Break_The_Barriers/1515"
+      },
+      {
+        "id": 1514,
+        "text": "Somewhere out there, a tree is working overtime to replace the oxygen you waste.",
+        "date": "2026-05-06T21:57:47+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1514_0_30414c7e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Break_The_Barriers/1514"
+      },
+      {
+        "id": 1513,
+        "text": "یه عزیزی ١٠٠٠ تا استار تلگرام داده به کانال، ممنونم ازت.\n🫂\n♥️\nزمانش بگذره که بتونم برداشت کنم، می‌ذارمش برای سرور رایگان.",
+        "date": "2026-05-06T19:09:05+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1513_0_30414c7e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Break_The_Barriers/1513"
+      },
+      {
+        "id": 1512,
+        "text": "درود، ارادت.\nدوستانی که راه پرداخت تومان نیاز داشتند برای تهیه کانفیگ اختصاصی یا دونیت، می‌تونید با استفاده از\n@SwapWalletBot\nبه‌صورت تومان، مطمئن و امن، ارز دیجیتال خریداری کنید.\nیک ثبت‌نام ساده داره و بعد می‌تونید خرید و انتقال ارز رو خیلی راحت انجام بدید.",
+        "date": "2026-05-05T20:47:40+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1512_0_30414c7e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1512_1_ea8979f3.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Break_The_Barriers/1512"
+      },
+      {
+        "id": 1511,
+        "text": "دوست دارم خیلی شفاف دلیل این تصمیم را بگویم. پاسخ کوتاه، یک کلمه است: «فرسودگی».",
+        "date": "2026-05-05T09:25:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1511_0_30414c7e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Break_The_Barriers/1511"
+      },
+      {
+        "id": 1510,
+        "text": "Break The Barriers\npinned a photo",
+        "date": "2026-05-04T21:44:26+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1510_0_30414c7e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Break_The_Barriers/1510"
+      },
+      {
+        "id": 1500,
+        "text": "🚨\nاگر اتفاقی افتاد و تنها راه اتصال به اینترنت، متدهای DNS Tunneling بود، سرورها را راه‌اندازی می‌کنم مجدداً و می‌تونید از کانفیگ‌های کانال استفاده کنید.\n⚠️\nدر حال حاضر سرورها خاموش‌اند.\nپسورد زیر را جهت اتصال به کانفیگ‌های کانال ذخیره کنید.\nبر روی علامت مداد\n🖋️\nکانفیگ بزنید و در انتهای تنظیمات، در بخش\nCredentials\n، پسورد را وارد کنید.\nPassword:\ncT8XzQ5P1gLrN2Vm\n@break_the_barriers",
+        "date": "2026-05-04T18:15:31+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1500_0_30414c7e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1500_1_60fedb4b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Break_The_Barriers/1500"
+      },
+      {
+        "id": 1492,
+        "text": "Unfortunately I had to shutdown the servers.",
+        "date": "2026-05-02T21:02:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1492_0_30414c7e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Break_The_Barriers/1492"
+      },
+      {
+        "id": 1470,
+        "text": "DNSly\nis open source. Read the code, report issues, contribute, or just leave a star if you believe in a free internet.\nDNSly.cc",
+        "date": "2026-05-01T15:32:44+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1470_0_30414c7e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1470_1_7f02025e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Break_The_Barriers/1470"
+      },
+      {
+        "id": 1468,
+        "text": "‏لینک گیت‌هاب پروژه DNSly - اپ iOS ما، که با استفاده از متدهای DNS Tunneling برای کاربران داخل ایران در سخت‌ترین شرایط فیلترینگ، دسترسی به اینترنت آزاد را فراهم خواهد کرد.\nبه حمایت شما، نیازمندیم.\nhttps://x.com/i/status/2049990604487020977",
+        "date": "2026-04-30T23:16:35+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1468_0_30414c7e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1468_1_9382e5cd.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://x.com/i/status/2049990604487020977",
+            "type": "twitter",
+            "display_text": "https://x.com/i/status/2049990604487020977"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/Break_The_Barriers/1468"
+      },
+      {
+        "id": 1460,
+        "text": "من هیچ مشکلی با انتشار محتوای کانال و کانفیگ‌ها ندارم،\n«اگر منبع رو ذکر کنید، سوءاستفاده نکنید و با استفاده ازشون ممبر نگیرید که سرویس خودتون رو بکنید تو پاچه مردم!»",
+        "date": "2026-04-30T18:14:35+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1460_0_30414c7e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Break_The_Barriers/1460"
+      },
+      {
+        "id": 1453,
+        "text": "این آدرس وب‌سایت و گیت‌هاب پروژه اپ iOS ماست.\nاگر حمایت نشیم، امکان انتشارش وجود نداره.\nتوسعه اپلیکیشن iOS مثل اندروید، کم هزینه نیست.\ndnsly.cc\nhttps://github.com/breakthebarriers/DNSly\n@break_the_barriers",
+        "date": "2026-04-29T10:35:32+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1453_0_30414c7e.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://github.com/breakthebarriers/DNSly",
+            "type": "github",
+            "display_text": "https://github.com/breakthebarriers/DNSly"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/Break_The_Barriers/1453"
+      },
+      {
+        "id": 1406,
+        "text": "Break The Barriers\npinned «\nتمامی متدهای DNS Tunneling این کانال با بهره بردن از دو سرور و مناسب کلاینت SlipNet، به‌صورت «کاملاً رایگان» در اختیار شماست.\n🚨\nمهم:  برای اتصال به کانفیگ‌ها، نیاز به وارد کردن Username و Password دارید، که به‌صورت روزانه داخل کانال قرار خواهند گرفت. عضویت…\n»",
+        "date": "2026-04-26T19:12:37+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1406_0_30414c7e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Break_The_Barriers/1406"
+      },
+      {
+        "id": 1397,
+        "text": "",
+        "date": "2026-04-26T18:10:14+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1397_0_30414c7e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Break_The_Barriers/1397"
+      },
+      {
+        "id": 1384,
+        "text": "تمامی متدهای\nDNS Tunneling\nاین کانال با بهره بردن از دو سرور و مناسب کلاینت\nSlipNet\n، به‌صورت\n«کاملاً رایگان»\nدر اختیار شماست.\n🚨\nمهم:\nبرای اتصال به کانفیگ‌ها، نیاز به وارد کردن\nUsername\nو\nPassword\nدارید، که به‌صورت\nروزانه\nداخل کانال قرار خواهند گرفت.\nعضویت در کانال، شما رو در اولویت اتصال قرار می‌ده.\nنصب اپلیکیشن اندروید کلاینت SlipNet و نحوه‌ی تنظیم پارامترها\n🚨\nمهم:\nبرای استفاده از کانفیگ‌ها، نیاز به\nDNS Resolver\nدارید، که با استفاده از آموزش‌های کانال، می‌تونید با توجه به نوع ارائه‌دهنده اینترنت و منطقه خود، اسکن کنید و بهترین ریزالورها رو برای استفاده در کانفیگ‌ها، به دست بیارید.\nآموزش نحوه‌ی اسکن DNS Resolver\nبرای مشاهده و برداشتن کانفیگ‌ها، لینک‌های زیر را لمس کنید.\n⚠️\nنکته:\nلزومی به وارد کردن تمامی کانفیگ‌ها(۴٢ کانفیگ) داخل اپلیکیشن ندارید؛ می‌تونید هر رکورد رو وارد کنید، با ریزالورهایی که به دست آوردید تست کنید و اگر برای شما جواب داد، از همون استفاده کنید.\n📋\nکانفیگ‌های DNSTT Socks + SSH\n📋\nکانفیگ‌های NoizDNS Socks + SSH\n📋\nکانفیگ‌های Slipstream Socks + SSH\n📋\nکانفیگ‌های\nVayDNS Socks + SSH\nبه ترتیب نوع رکورد:\n▪️\nVayDNS - TXT - Socks + SSH\n▪️\nVayDNS - CNAME - Socks + SSH\n▪️\nVayDNS - A - Socks + SSH\n▪️\nVayDNS - AAAA - Socks + SSH\n▪️\nVayDNS - MX - Socks + SSH\n▪️\nVayDNS - NS - Socks + SSH\n▪️\nVayDNS - SRV - Socks + SSH\n▪️\nVayDNS - NULL - Socks + SSH\n▪️\nVayDNS - CAA - Socks + SSH\n#DNSTT\n#NoizDNS\n#slipstream\n#VayDNS\nThe one and only\n@break_the_barriers",
+        "date": "2026-04-25T13:29:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1384_0_30414c7e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Break_The_Barriers/1384"
+      },
+      {
+        "id": 1377,
+        "text": "Break The Barriers\npinned «\nکمبود یک راه‌حل ساده و رایگان، برای دسترسی به اینترنت آزاد در iOS کاملاً حس می‌شد؛ ما با افتخار در حال توسعه آن هستیم.  مشارکت شما به تسریع توسعه و انتشار این محصول کمک می‌کند.  برای آشنایی با پروژه و حمایت از ما، به وب‌سایت ما سر بزنید. dnsly.cc  https:/…\n»",
+        "date": "2026-04-23T18:34:32+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1377_0_30414c7e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Break_The_Barriers/1377"
+      },
+      {
+        "id": 1376,
+        "text": "کمبود یک راه‌حل ساده و رایگان، برای دسترسی به اینترنت آزاد در iOS کاملاً حس می‌شد؛ ما با افتخار در حال توسعه آن هستیم.\nمشارکت شما به تسریع توسعه و انتشار این محصول کمک می‌کند.\nبرای آشنایی با پروژه و حمایت از ما، به وب‌سایت ما سر بزنید.\ndnsly.cc\nhttps://github.com/breakthebarriers/DNSly\nhttps://x.com/i/status/2047383201677549952\nDonate!\n🎁\nThe one and only\n@break_the_barriers",
+        "date": "2026-04-23T18:34:23+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1376_0_30414c7e.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://github.com/breakthebarriers/DNSly",
+            "type": "github",
+            "display_text": "https://github.com/breakthebarriers/DNSly"
+          },
+          {
+            "url": "https://x.com/i/status/2047383201677549952",
+            "type": "twitter",
+            "display_text": "https://x.com/i/status/2047383201677549952"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/Break_The_Barriers/1376"
+      },
+      {
+        "id": 1366,
+        "text": "https://x.com/i/status/2046875860158783788\nصفحه من در توییتر راه‌اندازی شد.\nفردا شب، از فعالیتی که این‌مدت بهش مشغول بودیم صحبت می‌کنم و معرفیش می‌کنم.\nمرسی از همراهی شما!\n🫂\nThe one and only\n@break_the_barriers",
+        "date": "2026-04-22T09:00:23+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1366_0_30414c7e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1366_1_3834f143.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://x.com/i/status/2046875860158783788",
+            "type": "twitter",
+            "display_text": "https://x.com/i/status/2046875860158783788"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/Break_The_Barriers/1366"
+      }
     ]
   },
-  "last_update": "2026-05-09T19:39:59.430002+00:00",
+  "last_update": "2026-05-09T20:31:34.449877+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
-    "total_posts": 532,
-    "total_media": 659,
-    "total_files": 659,
-    "total_links": 123,
+    "total_posts": 552,
+    "total_media": 685,
+    "total_files": 685,
+    "total_links": 129,
     "files_by_type": {
-      "image": 602,
+      "image": 628,
       "file": 17,
       "video": 39,
       "document": 1
     },
-    "referenced_files": 659,
-    "existing_media_files": 658,
-    "total_size_mb": 252.78,
-    "last_calculation": "2026-05-09T19:39:59.437939+00:00"
+    "referenced_files": 685,
+    "existing_media_files": 684,
+    "total_size_mb": 253.08,
+    "last_calculation": "2026-05-09T20:31:34.458194+00:00"
   }
 }

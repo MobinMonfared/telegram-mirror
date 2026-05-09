@@ -1,7 +1,7 @@
-Last run: 2026-05-09 19:46:32 UTC
-Workflow: 25610158503
+Last run: 2026-05-09 20:31:34 UTC
+Workflow: 25611109671
 Repository: MobinMonfared/telegram-mirror
 Validation: success
-Mirror success: false
-Media files: 658
+Mirror success: true
+Media files: 684
 Media size: 255M
