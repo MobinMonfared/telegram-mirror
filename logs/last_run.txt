@@ -1,7 +1,7 @@
-Last run: 2026-05-09 19:39:59 UTC
-Workflow: 25610026050
-Repository: avangardistic/telegram-mirror
+Last run: 2026-05-09 19:46:32 UTC
+Workflow: 25610158503
+Repository: MobinMonfared/telegram-mirror
 Validation: success
-Mirror success: true
+Mirror success: false
 Media files: 658
 Media size: 255M
