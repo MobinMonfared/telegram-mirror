@@ -9322,25 +9322,40 @@
         "has_media": true,
         "has_links": true,
         "source": "https://t.me/Break_The_Barriers/1366"
+      },
+      {
+        "id": 1263,
+        "text": "چه‌قدر واقعاً DNS خوبه، هر لحظه و هرزمان وصل، بدون اختلال و کارهای عجیب و غریب.\nفقط سرعت نداره، که فدای سرش.",
+        "date": "2026-04-18T06:48:23+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1263_0_30414c7e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Break_The_Barriers/1263"
       }
     ]
   },
-  "last_update": "2026-05-10T05:35:23.803912+00:00",
+  "last_update": "2026-05-10T07:12:01.559568+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
-    "total_posts": 552,
-    "total_media": 685,
-    "total_files": 685,
+    "total_posts": 553,
+    "total_media": 686,
+    "total_files": 686,
     "total_links": 129,
     "files_by_type": {
-      "image": 628,
+      "image": 629,
       "file": 17,
       "video": 39,
       "document": 1
     },
-    "referenced_files": 685,
-    "existing_media_files": 684,
-    "total_size_mb": 253.08,
-    "last_calculation": "2026-05-10T05:35:23.811877+00:00"
+    "referenced_files": 686,
+    "existing_media_files": 685,
+    "total_size_mb": 253.09,
+    "last_calculation": "2026-05-10T07:12:01.567741+00:00"
   }
 }
