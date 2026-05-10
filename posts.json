@@ -8965,6 +8965,21 @@
     ],
     "Break_The_Barriers": [
       {
+        "id": 1519,
+        "text": "x-ui-linux-amd64.tar.gz",
+        "date": "2026-05-10T20:14:09+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1519_0_8a8514ac.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Break_The_Barriers/1519"
+      },
+      {
         "id": 1518,
         "text": "مرسی، ولی نه!",
         "date": "2026-05-10T11:52:33+00:00",
@@ -9359,22 +9374,22 @@
       }
     ]
   },
-  "last_update": "2026-05-10T19:37:52.492156+00:00",
+  "last_update": "2026-05-10T20:34:44.768889+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
-    "total_posts": 554,
-    "total_media": 688,
-    "total_files": 688,
+    "total_posts": 555,
+    "total_media": 689,
+    "total_files": 689,
     "total_links": 129,
     "files_by_type": {
-      "image": 631,
+      "image": 632,
       "file": 17,
       "video": 39,
       "document": 1
     },
-    "referenced_files": 688,
-    "existing_media_files": 687,
-    "total_size_mb": 253.2,
-    "last_calculation": "2026-05-10T19:37:52.500272+00:00"
+    "referenced_files": 689,
+    "existing_media_files": 688,
+    "total_size_mb": 253.21,
+    "last_calculation": "2026-05-10T20:34:44.777204+00:00"
   }
 }
