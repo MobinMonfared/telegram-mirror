@@ -8965,6 +8965,40 @@
     ],
     "Break_The_Barriers": [
       {
+        "id": 1523,
+        "text": "لطفاً\n⚠️\nفقط اگر سیم‌کارت پرو دارید\n، این کانفیگ رو تست کنید و در دایرکت بگید که وصل شدید یا نه، متشکرم!\nvless://bd668c78-cee4-4914-a16d-cc224f248374@104.18.13.149:8443?mode=auto&path=%2F&security=tls&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%7D&insecure=1&host=cloud.dns.xn--q9jyb4c&type=xhttp&allowInsecure=1&sni=cloud.dns.xn--q9jyb4c#CDN-Break%20The%20Barriers",
+        "date": "2026-05-10T22:31:20+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1523_0_8a8514ac.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Break_The_Barriers/1523"
+      },
+      {
+        "id": 1520,
+        "text": "Hmmmmm\n😎",
+        "date": "2026-05-10T22:12:44+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1520_0_8a8514ac.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1520_1_5cb88549.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Break_The_Barriers/1520"
+      },
+      {
         "id": 1519,
         "text": "x-ui-linux-amd64.tar.gz",
         "date": "2026-05-10T20:14:09+00:00",
@@ -9374,22 +9408,22 @@
       }
     ]
   },
-  "last_update": "2026-05-10T21:36:02.389520+00:00",
+  "last_update": "2026-05-10T22:33:58.011530+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
-    "total_posts": 555,
-    "total_media": 689,
-    "total_files": 689,
+    "total_posts": 557,
+    "total_media": 692,
+    "total_files": 692,
     "total_links": 129,
     "files_by_type": {
-      "image": 632,
+      "image": 635,
       "file": 17,
       "video": 39,
       "document": 1
     },
-    "referenced_files": 689,
-    "existing_media_files": 688,
-    "total_size_mb": 253.21,
-    "last_calculation": "2026-05-10T21:36:02.397485+00:00"
+    "referenced_files": 692,
+    "existing_media_files": 691,
+    "total_size_mb": 253.3,
+    "last_calculation": "2026-05-10T22:33:58.019873+00:00"
   }
 }
