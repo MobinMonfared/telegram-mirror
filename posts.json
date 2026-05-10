@@ -8965,6 +8965,25 @@
     ],
     "Break_The_Barriers": [
       {
+        "id": 1518,
+        "text": "مرسی، ولی نه!",
+        "date": "2026-05-10T11:52:33+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1518_0_30414c7e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1518_1_a2e305c9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Break_The_Barriers/1518"
+      },
+      {
         "id": 1517,
         "text": "این‌گونه.",
         "date": "2026-05-08T14:41:50+00:00",
@@ -9340,22 +9359,22 @@
       }
     ]
   },
-  "last_update": "2026-05-10T11:39:04.694074+00:00",
+  "last_update": "2026-05-10T12:45:28.688088+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
-    "total_posts": 553,
-    "total_media": 686,
-    "total_files": 686,
+    "total_posts": 554,
+    "total_media": 688,
+    "total_files": 688,
     "total_links": 129,
     "files_by_type": {
-      "image": 629,
+      "image": 631,
       "file": 17,
       "video": 39,
       "document": 1
     },
-    "referenced_files": 686,
-    "existing_media_files": 685,
-    "total_size_mb": 253.09,
-    "last_calculation": "2026-05-10T11:39:04.702259+00:00"
+    "referenced_files": 688,
+    "existing_media_files": 687,
+    "total_size_mb": 253.2,
+    "last_calculation": "2026-05-10T12:45:28.696107+00:00"
   }
 }
