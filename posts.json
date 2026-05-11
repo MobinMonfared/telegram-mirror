@@ -8965,6 +8965,55 @@
     ],
     "Break_The_Barriers": [
       {
+        "id": 1529,
+        "text": "دونیت خاصی نشدم، از آخوند عصبانی بودم و خودم راه انداختم، بلکه کمی آروم بشم. شاید بشه بهش گفت مبارزه.",
+        "date": "2026-05-11T18:57:44+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1529_0_388f4f06.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Break_The_Barriers/1529"
+      },
+      {
+        "id": 1528,
+        "text": "تمامی متدهای\nDNS Tunneling\nاین کانال با بهره بردن از دو سرور و مناسب کلاینت\nSlipNet\n، به‌صورت\n«کاملاً رایگان»\nدر اختیار شماست.\n🚨\nمهم:\nبرای اتصال به کانفیگ‌ها، نیاز به وارد کردن\nUsername\nو\nPassword\nدارید، که به‌صورت\nروزانه\nداخل کانال قرار خواهند گرفت.\nعضویت در کانال، شما رو در اولویت اتصال قرار می‌ده.\nنصب اپلیکیشن اندروید کلاینت SlipNet و نحوه‌ی تنظیم پارامترها\n🚨\nمهم:\nبرای استفاده از کانفیگ‌ها، نیاز به\nDNS Resolver\nدارید، که با استفاده از آموزش‌های کانال، می‌تونید با توجه به نوع ارائه‌دهنده اینترنت و منطقه خود، اسکن کنید و بهترین ریزالورها رو برای استفاده در کانفیگ‌ها، به دست بیارید.\nآموزش نحوه‌ی اسکن DNS Resolver\nبرای مشاهده و برداشتن کانفیگ‌ها، لینک‌های زیر را لمس کنید.\n⚠️\nنکته:\nلزومی به وارد کردن تمامی کانفیگ‌ها(۴٢ کانفیگ) داخل اپلیکیشن ندارید؛ می‌تونید هر رکورد رو وارد کنید، با ریزالورهایی که به دست آوردید تست کنید و اگر برای شما جواب داد، از همون استفاده کنید.\n📋\nکانفیگ‌های DNSTT Socks + SSH\n📋\nکانفیگ‌های NoizDNS Socks + SSH\n📋\nکانفیگ‌های Slipstream Socks + SSH\n📋\nکانفیگ‌های\nVayDNS Socks + SSH\nبه ترتیب نوع رکورد:\n▪️\nVayDNS - TXT - Socks + SSH\n▪️\nVayDNS - CNAME - Socks + SSH\n▪️\nVayDNS - A - Socks + SSH\n▪️\nVayDNS - AAAA - Socks + SSH\n▪️\nVayDNS - MX - Socks + SSH\n▪️\nVayDNS - NS - Socks + SSH\n▪️\nVayDNS - SRV - Socks + SSH\n▪️\nVayDNS - NULL - Socks + SSH\n▪️\nVayDNS - CAA - Socks + SSH\n#DNSTT\n#NoizDNS\n#slipstream\n#VayDNS\nThe one and only\n@break_the_barriers",
+        "date": "2026-05-11T18:56:15+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1528_0_388f4f06.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Break_The_Barriers/1528"
+      },
+      {
+        "id": 1527,
+        "text": "Password: cT8XzQ5P1gLrN2Vm",
+        "date": "2026-05-11T18:50:28+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1527_0_388f4f06.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1527_1_196a093c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Break_The_Barriers/1527"
+      },
+      {
         "id": 1526,
         "text": "x-ui-linux-amd64.tar.gz",
         "date": "2026-05-11T14:21:33+00:00",
@@ -9423,22 +9472,22 @@
       }
     ]
   },
-  "last_update": "2026-05-11T17:07:29.674731+00:00",
+  "last_update": "2026-05-11T19:15:29.511106+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
-    "total_posts": 558,
-    "total_media": 693,
-    "total_files": 693,
+    "total_posts": 561,
+    "total_media": 697,
+    "total_files": 697,
     "total_links": 129,
     "files_by_type": {
-      "image": 636,
+      "image": 640,
       "file": 17,
       "video": 39,
       "document": 1
     },
-    "referenced_files": 693,
-    "existing_media_files": 692,
-    "total_size_mb": 253.31,
-    "last_calculation": "2026-05-11T17:07:29.682815+00:00"
+    "referenced_files": 697,
+    "existing_media_files": 696,
+    "total_size_mb": 253.33,
+    "last_calculation": "2026-05-11T19:15:29.519332+00:00"
   }
 }
