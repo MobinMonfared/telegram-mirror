@@ -8965,6 +8965,65 @@
     ],
     "Break_The_Barriers": [
       {
+        "id": 1540,
+        "text": "خوب وصلید ها.\n🥳",
+        "date": "2026-05-12T20:51:05+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1540_0_998b53d1.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1540_1_6d7c2221.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Break_The_Barriers/1540"
+      },
+      {
+        "id": 1539,
+        "text": "«ایرانی کله‌خر»\nکیفیت رو خیلی آوردم پایین تا حجم کم‌تری داشته باشه، امیدوارم بتونید تماشا کنید.\nاز این پیج:\nhttps://www.instagram.com/hap_thebard?igsh=MXA3ZXg5MHZpdDRwNA==",
+        "date": "2026-05-12T20:43:05+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1539_0_998b53d1.jpg"
+          },
+          {
+            "type": "video",
+            "file": "Break_The_Barriers_1539_1_29f94158.mp4"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://www.instagram.com/hap_thebard?igsh=MXA3ZXg5MHZpdDRwNA==",
+            "type": "instagram",
+            "display_text": "https://www.instagram.com/hap_thebard?igsh=MXA3ZXg5MHZpdDRwN..."
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/Break_The_Barriers/1539"
+      },
+      {
+        "id": 1538,
+        "text": "تازه من سرویس های رایگان دیگه رو هم تست میکنم از قبیل masterdns/stormdns و mhr و سایر\n(البته استفاده اصلیم سرور های شما روی اسلیپ هست)\nو بگم که از امروز صبح storm که داغون شده و کانفیگای پابلیک slip هم اکثرا فقط upload میدن و دانلود نمیدن (یا زیر 1 کیلوبایت) و حتی سرور های socks هم خیلیاشون همینطور شدن، ولی ssh های شما پرقدرت تر از قبل وصلن\n💪\n💪",
+        "date": "2026-05-12T19:58:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1538_0_998b53d1.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Break_The_Barriers/1538"
+      },
+      {
         "id": 1537,
         "text": "گیر کردیم رو نوزده.\n🫠",
         "date": "2026-05-12T19:32:42+00:00",
@@ -9592,22 +9651,22 @@
       }
     ]
   },
-  "last_update": "2026-05-12T19:52:39.596013+00:00",
+  "last_update": "2026-05-12T20:55:33.085503+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
-    "total_posts": 569,
-    "total_media": 705,
-    "total_files": 705,
-    "total_links": 129,
+    "total_posts": 572,
+    "total_media": 710,
+    "total_files": 710,
+    "total_links": 130,
     "files_by_type": {
-      "image": 648,
+      "image": 652,
       "file": 17,
-      "video": 39,
+      "video": 40,
       "document": 1
     },
-    "referenced_files": 705,
-    "existing_media_files": 704,
-    "total_size_mb": 253.39,
-    "last_calculation": "2026-05-12T19:52:39.604283+00:00"
+    "referenced_files": 710,
+    "existing_media_files": 709,
+    "total_size_mb": 257.86,
+    "last_calculation": "2026-05-12T20:55:33.093806+00:00"
   }
 }
