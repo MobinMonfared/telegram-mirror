@@ -8965,6 +8965,21 @@
     ],
     "Break_The_Barriers": [
       {
+        "id": 1537,
+        "text": "گیر کردیم رو نوزده.\n🫠",
+        "date": "2026-05-12T19:32:42+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1537_0_998b53d1.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Break_The_Barriers/1537"
+      },
+      {
         "id": 1536,
         "text": "برای من\nروی null socks وصل هست\nخیلی خوب هم جواب میده\nدست به گیرنده هاتون نزنید\nبرای اونا که تلویزیون سیاه و سفید دارن\nتیم سمت راست ایران هست که با null خیلی خوب جواب گرفته",
         "date": "2026-05-12T19:13:01+00:00",
@@ -9577,22 +9592,22 @@
       }
     ]
   },
-  "last_update": "2026-05-12T19:17:30.765001+00:00",
+  "last_update": "2026-05-12T19:52:39.596013+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
-    "total_posts": 568,
-    "total_media": 704,
-    "total_files": 704,
+    "total_posts": 569,
+    "total_media": 705,
+    "total_files": 705,
     "total_links": 129,
     "files_by_type": {
-      "image": 647,
+      "image": 648,
       "file": 17,
       "video": 39,
       "document": 1
     },
-    "referenced_files": 704,
-    "existing_media_files": 703,
-    "total_size_mb": 253.38,
-    "last_calculation": "2026-05-12T19:17:30.773429+00:00"
+    "referenced_files": 705,
+    "existing_media_files": 704,
+    "total_size_mb": 253.39,
+    "last_calculation": "2026-05-12T19:52:39.604283+00:00"
   }
 }
