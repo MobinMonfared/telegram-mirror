@@ -8965,6 +8965,111 @@
     ],
     "Break_The_Barriers": [
       {
+        "id": 1536,
+        "text": "برای من\nروی null socks وصل هست\nخیلی خوب هم جواب میده\nدست به گیرنده هاتون نزنید\nبرای اونا که تلویزیون سیاه و سفید دارن\nتیم سمت راست ایران هست که با null خیلی خوب جواب گرفته",
+        "date": "2026-05-12T19:13:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1536_0_998b53d1.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Break_The_Barriers/1536"
+      },
+      {
+        "id": 1535,
+        "text": "سلام\nاین فاکتورها رو جدای از این‌که منطقی هست یا نه، تست کنید:\nApp:\nMTU: 1500\nMAX Channels: 64\nConfig:\nResolver Mode: Reliable\nQuery Lenght: 253\nor\nDNS Query Size: Fastest\nاین تنظیمات بر‌ای من کار کرد. نت ایرانسل",
+        "date": "2026-05-12T19:08:08+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1535_0_998b53d1.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Break_The_Barriers/1535"
+      },
+      {
+        "id": 1534,
+        "text": "Null\nAaaa\nCname\nCaa\nNs\nهمه وصله روی ssh و ساکس",
+        "date": "2026-05-12T19:05:50+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1534_0_998b53d1.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Break_The_Barriers/1534"
+      },
+      {
+        "id": 1533,
+        "text": ":)))))",
+        "date": "2026-05-12T19:04:29+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1533_0_998b53d1.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Break_The_Barriers/1533"
+      },
+      {
+        "id": 1532,
+        "text": "حاجی ناموسا دست نزن بهش، مام دست ب گیرنده نمی زنیم\nبا null میرم یوتوب",
+        "date": "2026-05-12T19:03:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1532_0_998b53d1.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Break_The_Barriers/1532"
+      },
+      {
+        "id": 1531,
+        "text": "آیا سرورها رو مجدد ستاپ بکنم و فقط اون رکوردهایی که جواب می‌دن رو بذارم؟\nدستی به سر و روی کانال بکشم.\n🤔",
+        "date": "2026-05-12T18:59:29+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1531_0_998b53d1.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Break_The_Barriers/1531"
+      },
+      {
+        "id": 1530,
+        "text": "این فاکتورها رو جدای از این‌که منطقی هست یا نه، تست کنید:\nApp:\nMTU: 1500\nMAX Channels: 64\nConfig:\nResolver Mode: Reliable\nQuery Lenght: 253\nor\nDNS Query Size: Fastest",
+        "date": "2026-05-12T18:42:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1530_0_998b53d1.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Break_The_Barriers/1530"
+      },
+      {
         "id": 1529,
         "text": "دونیت خاصی نشدم، از آخوند عصبانی بودم و خودم راه انداختم، بلکه کمی آروم بشم. شاید بشه بهش گفت مبارزه.",
         "date": "2026-05-11T18:57:44+00:00",
@@ -9472,22 +9577,22 @@
       }
     ]
   },
-  "last_update": "2026-05-12T17:29:27.517590+00:00",
+  "last_update": "2026-05-12T19:17:30.765001+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
-    "total_posts": 561,
-    "total_media": 697,
-    "total_files": 697,
+    "total_posts": 568,
+    "total_media": 704,
+    "total_files": 704,
     "total_links": 129,
     "files_by_type": {
-      "image": 640,
+      "image": 647,
       "file": 17,
       "video": 39,
       "document": 1
     },
-    "referenced_files": 697,
-    "existing_media_files": 696,
-    "total_size_mb": 253.33,
-    "last_calculation": "2026-05-12T17:29:27.525802+00:00"
+    "referenced_files": 704,
+    "existing_media_files": 703,
+    "total_size_mb": 253.38,
+    "last_calculation": "2026-05-12T19:17:30.773429+00:00"
   }
 }
