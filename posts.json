@@ -8965,6 +8965,25 @@
     ],
     "Break_The_Barriers": [
       {
+        "id": 1555,
+        "text": "دست از سر سرور یک بردارید.\n😂\n🤦🏻‍♂️",
+        "date": "2026-05-13T22:23:48+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1555_0_fefd9a2d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1555_1_0bece3c6.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Break_The_Barriers/1555"
+      },
+      {
         "id": 1554,
         "text": "برای استفاده از کانفیگ‌های رایگان کانال، پست پین شده رو ببینید.",
         "date": "2026-05-13T21:10:38+00:00",
@@ -9832,22 +9851,22 @@
       }
     ]
   },
-  "last_update": "2026-05-13T21:49:48.923237+00:00",
+  "last_update": "2026-05-13T22:54:04.485969+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
-    "total_posts": 583,
-    "total_media": 725,
-    "total_files": 725,
+    "total_posts": 584,
+    "total_media": 727,
+    "total_files": 727,
     "total_links": 130,
     "files_by_type": {
-      "image": 667,
+      "image": 669,
       "file": 17,
       "video": 40,
       "document": 1
     },
-    "referenced_files": 725,
-    "existing_media_files": 724,
-    "total_size_mb": 258.03,
-    "last_calculation": "2026-05-13T21:49:48.932411+00:00"
+    "referenced_files": 727,
+    "existing_media_files": 726,
+    "total_size_mb": 258.08,
+    "last_calculation": "2026-05-13T22:54:04.495134+00:00"
   }
 }
