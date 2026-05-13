@@ -8965,6 +8965,40 @@
     ],
     "Break_The_Barriers": [
       {
+        "id": 1544,
+        "text": "پسورد فعلی ساعت ١۴ منقضی می‌شه.",
+        "date": "2026-05-13T08:20:49+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1544_0_998b53d1.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Break_The_Barriers/1544"
+      },
+      {
+        "id": 1543,
+        "text": "پسورد جدید جهت اتصال به کانفیگ‌های کانال\nتاریخ:\n٢٣ اردی‌بهشت‌ماه\nبر روی علامت مداد\n🖋️\nکانفیگ بزنید و در انتهای تنظیمات، در بخش\nCredentials\n، پسورد را وارد کنید.\nPassword:\nR2oV7LqZxF1M9cWa\n@break_the_barriers",
+        "date": "2026-05-13T08:20:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1543_0_998b53d1.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1543_1_e53fec7b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Break_The_Barriers/1543"
+      },
+      {
         "id": 1540,
         "text": "خوب وصلید ها.\n🥳",
         "date": "2026-05-12T20:51:05+00:00",
@@ -9651,22 +9685,22 @@
       }
     ]
   },
-  "last_update": "2026-05-13T08:14:26.831441+00:00",
+  "last_update": "2026-05-13T08:44:23.565600+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
-    "total_posts": 572,
-    "total_media": 710,
-    "total_files": 710,
+    "total_posts": 574,
+    "total_media": 713,
+    "total_files": 713,
     "total_links": 130,
     "files_by_type": {
-      "image": 652,
+      "image": 655,
       "file": 17,
       "video": 40,
       "document": 1
     },
-    "referenced_files": 710,
-    "existing_media_files": 709,
-    "total_size_mb": 257.86,
-    "last_calculation": "2026-05-13T08:14:26.839935+00:00"
+    "referenced_files": 713,
+    "existing_media_files": 712,
+    "total_size_mb": 257.91,
+    "last_calculation": "2026-05-13T08:44:23.574280+00:00"
   }
 }
