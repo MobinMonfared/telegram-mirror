@@ -8965,6 +8965,55 @@
     ],
     "Break_The_Barriers": [
       {
+        "id": 1547,
+        "text": "اگر عضو همین کانال بشید، لازم نیست هرروز از کانال‌های دیگه کانفیگ‌های من رو بردارید، فقط پسورد جدید رو می‌ذارید.\nخودتون هم ریزالور اسکن کنید.\nمتوجه نمی‌شم چرا اين‌قدر به خودتون زحمت می‌دید.",
+        "date": "2026-05-13T10:38:19+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1547_0_998b53d1.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Break_The_Barriers/1547"
+      },
+      {
+        "id": 1546,
+        "text": "پسورد جدید جهت اتصال به کانفیگ‌های کانال  تاریخ: ٢٣ اردی‌بهشت‌ماه  بر روی علامت مداد\n🖋️\nکانفیگ بزنید و در انتهای تنظیمات، در بخش Credentials، پسورد را وارد کنید.  Password: R2oV7LqZxF1M9cWa  @break_the_barriers",
+        "date": "2026-05-13T10:34:35+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1546_0_998b53d1.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1546_1_4c6be246.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Break_The_Barriers/1546"
+      },
+      {
+        "id": 1545,
+        "text": "مردم چه‌قدر راحت دارن اینترنت پرو می‌گیرن.\n😞",
+        "date": "2026-05-13T09:54:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1545_0_998b53d1.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Break_The_Barriers/1545"
+      },
+      {
         "id": 1544,
         "text": "پسورد فعلی ساعت ١۴ منقضی می‌شه.",
         "date": "2026-05-13T08:20:49+00:00",
@@ -9685,22 +9734,22 @@
       }
     ]
   },
-  "last_update": "2026-05-13T08:44:23.565600+00:00",
+  "last_update": "2026-05-13T11:01:57.424134+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
-    "total_posts": 574,
-    "total_media": 713,
-    "total_files": 713,
+    "total_posts": 577,
+    "total_media": 717,
+    "total_files": 717,
     "total_links": 130,
     "files_by_type": {
-      "image": 655,
+      "image": 659,
       "file": 17,
       "video": 40,
       "document": 1
     },
-    "referenced_files": 713,
-    "existing_media_files": 712,
-    "total_size_mb": 257.91,
-    "last_calculation": "2026-05-13T08:44:23.574280+00:00"
+    "referenced_files": 717,
+    "existing_media_files": 716,
+    "total_size_mb": 257.93,
+    "last_calculation": "2026-05-13T11:01:57.432759+00:00"
   }
 }
