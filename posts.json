@@ -8965,6 +8965,25 @@
     ],
     "Break_The_Barriers": [
       {
+        "id": 1548,
+        "text": "لطفاً از سرور دو استفاده کنید!",
+        "date": "2026-05-13T15:54:33+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1548_0_fefd9a2d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1548_1_d87d619d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Break_The_Barriers/1548"
+      },
+      {
         "id": 1547,
         "text": "اگر عضو همین کانال بشید، لازم نیست هرروز از کانال‌های دیگه کانفیگ‌های من رو بردارید، فقط پسورد جدید رو می‌ذارید.\nخودتون هم ریزالور اسکن کنید.\nمتوجه نمی‌شم چرا اين‌قدر به خودتون زحمت می‌دید.",
         "date": "2026-05-13T10:38:19+00:00",
@@ -9734,22 +9753,22 @@
       }
     ]
   },
-  "last_update": "2026-05-13T14:34:13.743573+00:00",
+  "last_update": "2026-05-13T16:12:34.304975+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
-    "total_posts": 577,
-    "total_media": 717,
-    "total_files": 717,
+    "total_posts": 578,
+    "total_media": 719,
+    "total_files": 719,
     "total_links": 130,
     "files_by_type": {
-      "image": 659,
+      "image": 661,
       "file": 17,
       "video": 40,
       "document": 1
     },
-    "referenced_files": 717,
-    "existing_media_files": 716,
-    "total_size_mb": 257.93,
-    "last_calculation": "2026-05-13T14:34:13.750292+00:00"
+    "referenced_files": 719,
+    "existing_media_files": 718,
+    "total_size_mb": 257.99,
+    "last_calculation": "2026-05-13T16:12:34.313656+00:00"
   }
 }
