@@ -8965,6 +8965,51 @@
     ],
     "Break_The_Barriers": [
       {
+        "id": 1554,
+        "text": "برای استفاده از کانفیگ‌های رایگان کانال، پست پین شده رو ببینید.",
+        "date": "2026-05-13T21:10:38+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1554_0_fefd9a2d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Break_The_Barriers/1554"
+      },
+      {
+        "id": 1552,
+        "text": "لازم بود دوباره یادآوری کنم که من «وی‌پی‌ان فروش» نیستم!(البته ایرادی هم در این مورد نمی‌بینم).\nاین طرح صرفاً برای حمایت از سرپا موندن سرورهای رایگان کانال راه‌اندازی شد.(و البته به درخواست خودتون!)",
+        "date": "2026-05-13T20:49:48+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1552_0_fefd9a2d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Break_The_Barriers/1552"
+      },
+      {
+        "id": 1551,
+        "text": "✅\nسرورهای اختصاصی(با ظرفیت محدود) با متدهای DNS Tunneling راه‌اندازی شدند.\nشما سرعت و پایداری خیلی بهتری خواهید داشت و بخشی از هزینه‌ها هم صرف سرورهای پابلیک کانال\n@break_the_barriers\nمی‌شه، تا کانفیگ‌های رایگان اون‌جا هم حفظ بشه.\nدر واقع یک‌جورهایی win-win می‌شه:\n✅\nاتصال بهتر برای شما + کمک به اتصال دیگران\nاگر با این ایده موافق هستید، بهم دایرکت بدید و کانفیگ اختصاصی خودتون رو تهیه کنید.\n📩",
+        "date": "2026-05-13T20:48:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1551_0_fefd9a2d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Break_The_Barriers/1551"
+      },
+      {
         "id": 1550,
         "text": "درود، ارادت.\nدوستانی که راه پرداخت تومان نیاز داشتند برای تهیه کانفیگ اختصاصی یا دونیت، می‌تونید با استفاده از\n@SwapWalletBot\nبه‌صورت تومان، مطمئن و امن، ارز دیجیتال خریداری کنید.\nیک ثبت‌نام ساده داره و بعد می‌تونید خرید و انتقال ارز رو خیلی راحت انجام بدید.",
         "date": "2026-05-13T17:14:49+00:00",
@@ -9787,22 +9832,22 @@
       }
     ]
   },
-  "last_update": "2026-05-13T20:15:04.684369+00:00",
+  "last_update": "2026-05-13T21:49:48.923237+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
-    "total_posts": 580,
-    "total_media": 722,
-    "total_files": 722,
+    "total_posts": 583,
+    "total_media": 725,
+    "total_files": 725,
     "total_links": 130,
     "files_by_type": {
-      "image": 664,
+      "image": 667,
       "file": 17,
       "video": 40,
       "document": 1
     },
-    "referenced_files": 722,
-    "existing_media_files": 721,
-    "total_size_mb": 258.0,
-    "last_calculation": "2026-05-13T20:15:04.692941+00:00"
+    "referenced_files": 725,
+    "existing_media_files": 724,
+    "total_size_mb": 258.03,
+    "last_calculation": "2026-05-13T21:49:48.932411+00:00"
   }
 }
