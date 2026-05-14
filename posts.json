@@ -8965,6 +8965,40 @@
     ],
     "Break_The_Barriers": [
       {
+        "id": 1557,
+        "text": "بالای ١ ترابایت ترافیک، فقط طی ١۴ ساعت از زمان ریست سرورها ثبت شده.",
+        "date": "2026-05-14T06:38:55+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1557_0_fefd9a2d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Break_The_Barriers/1557"
+      },
+      {
+        "id": 1556,
+        "text": "صبح به‌خیر ایرانی.\n✌️\nاین اعداد برای متد DNS، یعنی اتصال خیلی‌ها.",
+        "date": "2026-05-14T06:37:04+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1556_0_fefd9a2d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1556_1_0e6556c0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Break_The_Barriers/1556"
+      },
+      {
         "id": 1555,
         "text": "دست از سر سرور یک بردارید.\n😂\n🤦🏻‍♂️",
         "date": "2026-05-13T22:23:48+00:00",
@@ -9851,22 +9885,22 @@
       }
     ]
   },
-  "last_update": "2026-05-14T05:45:37.278634+00:00",
+  "last_update": "2026-05-14T08:22:10.938793+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
-    "total_posts": 584,
-    "total_media": 727,
-    "total_files": 727,
+    "total_posts": 586,
+    "total_media": 730,
+    "total_files": 730,
     "total_links": 130,
     "files_by_type": {
-      "image": 669,
+      "image": 672,
       "file": 17,
       "video": 40,
       "document": 1
     },
-    "referenced_files": 727,
-    "existing_media_files": 726,
-    "total_size_mb": 258.08,
-    "last_calculation": "2026-05-14T05:45:37.287336+00:00"
+    "referenced_files": 730,
+    "existing_media_files": 729,
+    "total_size_mb": 258.14,
+    "last_calculation": "2026-05-14T08:22:10.947755+00:00"
   }
 }
