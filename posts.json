@@ -8965,6 +8965,21 @@
     ],
     "Break_The_Barriers": [
       {
+        "id": 1574,
+        "text": "👑\nCDN Edge IPs:\n167.82.48.223\nCDN SNI Hostname:\nfiles.pythonhosted.org",
+        "date": "2026-05-14T21:41:06+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1574_0_45e4b39b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Break_The_Barriers/1574"
+      },
+      {
         "id": 1567,
         "text": "اگر شیر و خورشید وصل نمی‌شود، طبق راهنمای زیر عمل کنید.\nوارد بخش Options اپلیکیشن\n👑\nشوید، گزینه‌ی More Options را انتخاب کنید و در قسمت CDN Edge IPs، آی‌پی زیر و در قسمت CDN SNI Hostname، نام دامنه زیر را وارد کرده و OK را بزنید.\nCDN Edge IPs:\n151.101.192.223\nCDN SNI Hostname:\npython.org\nدر انتها OK را بزنید، به صفحه‌ی اصلی بازگشته و START را بزنید.\n@break_the_barriers",
         "date": "2026-05-14T20:16:13+00:00",
@@ -10075,22 +10090,22 @@
       }
     ]
   },
-  "last_update": "2026-05-14T20:49:24.362871+00:00",
+  "last_update": "2026-05-14T21:57:48.716800+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
-    "total_posts": 596,
-    "total_media": 742,
-    "total_files": 742,
+    "total_posts": 597,
+    "total_media": 743,
+    "total_files": 743,
     "total_links": 136,
     "files_by_type": {
-      "image": 684,
+      "image": 685,
       "file": 17,
       "video": 40,
       "document": 1
     },
-    "referenced_files": 742,
-    "existing_media_files": 741,
-    "total_size_mb": 258.29,
-    "last_calculation": "2026-05-14T20:49:24.375251+00:00"
+    "referenced_files": 743,
+    "existing_media_files": 742,
+    "total_size_mb": 258.3,
+    "last_calculation": "2026-05-14T21:57:48.726130+00:00"
   }
 }
