@@ -8965,6 +8965,57 @@
     ],
     "Break_The_Barriers": [
       {
+        "id": 1566,
+        "text": "",
+        "date": "2026-05-14T19:26:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1566_0_45e4b39b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Break_The_Barriers/1566"
+      },
+      {
+        "id": 1565,
+        "text": "راهنمای اتصال به کانفیگ‌های رایگان کانال\nدر ابتدا نیاز به نصب اپلیکیشن اندروید کلاینت\nSlipNet\nو انجام تنظیمات آن دارید.\n👉\nhttps://t.me/Break_The_Barriers/968\nسپس باید کانفیگ‌ها را در کلاینت وارد کنید.\n👉\nhttps://t.me/Break_The_Barriers/1384\nپسورد جدید را از کانال بردارید و در کانفیگ جای‌گذاری کنید.\n👉\nhttps://t.me/Break_The_Barriers/1543\nبا این آموزش، ریزالورها را اسکن کنید و در نهایت متصل شوید.\n👉\nhttps://t.me/Break_The_Barriers/1245\n@break_the_barriers",
+        "date": "2026-05-14T19:21:47+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1565_0_45e4b39b.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://t.me/Break_The_Barriers/968",
+            "type": "telegram",
+            "display_text": "https://t.me/Break_The_Barriers/968"
+          },
+          {
+            "url": "https://t.me/Break_The_Barriers/1384",
+            "type": "telegram",
+            "display_text": "https://t.me/Break_The_Barriers/1384"
+          },
+          {
+            "url": "https://t.me/Break_The_Barriers/1543",
+            "type": "telegram",
+            "display_text": "https://t.me/Break_The_Barriers/1543"
+          },
+          {
+            "url": "https://t.me/Break_The_Barriers/1245",
+            "type": "telegram",
+            "display_text": "https://t.me/Break_The_Barriers/1245"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/Break_The_Barriers/1565"
+      },
+      {
         "id": 1564,
         "text": "👑",
         "date": "2026-05-14T19:07:17+00:00",
@@ -10005,22 +10056,22 @@
       }
     ]
   },
-  "last_update": "2026-05-14T19:14:35.124482+00:00",
+  "last_update": "2026-05-14T19:46:06.763166+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
-    "total_posts": 593,
-    "total_media": 738,
-    "total_files": 738,
-    "total_links": 132,
+    "total_posts": 595,
+    "total_media": 740,
+    "total_files": 740,
+    "total_links": 136,
     "files_by_type": {
-      "image": 680,
+      "image": 682,
       "file": 17,
       "video": 40,
       "document": 1
     },
-    "referenced_files": 738,
-    "existing_media_files": 737,
-    "total_size_mb": 258.23,
-    "last_calculation": "2026-05-14T19:14:35.133615+00:00"
+    "referenced_files": 740,
+    "existing_media_files": 739,
+    "total_size_mb": 258.24,
+    "last_calculation": "2026-05-14T19:46:06.772029+00:00"
   }
 }
