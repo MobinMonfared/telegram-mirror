@@ -8965,6 +8965,40 @@
     ],
     "Break_The_Barriers": [
       {
+        "id": 1576,
+        "text": "",
+        "date": "2026-05-14T22:57:12+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1576_0_45e4b39b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1576_1_c353ee98.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Break_The_Barriers/1576"
+      },
+      {
+        "id": 1575,
+        "text": "آی‌پی هر دو سرور بلاک شده بودند، مجبور به تعویض شدم.\nدر حال‌حاضر up and running هستند.",
+        "date": "2026-05-14T22:52:39+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1575_0_45e4b39b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Break_The_Barriers/1575"
+      },
+      {
         "id": 1574,
         "text": "👑\nCDN Edge IPs:\n167.82.48.223\nCDN SNI Hostname:\nfiles.pythonhosted.org",
         "date": "2026-05-14T21:41:06+00:00",
@@ -10090,22 +10124,22 @@
       }
     ]
   },
-  "last_update": "2026-05-14T22:52:20.613319+00:00",
+  "last_update": "2026-05-14T23:43:27.785432+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
-    "total_posts": 597,
-    "total_media": 743,
-    "total_files": 743,
+    "total_posts": 599,
+    "total_media": 746,
+    "total_files": 746,
     "total_links": 136,
     "files_by_type": {
-      "image": 685,
+      "image": 688,
       "file": 17,
       "video": 40,
       "document": 1
     },
-    "referenced_files": 743,
-    "existing_media_files": 742,
-    "total_size_mb": 258.3,
-    "last_calculation": "2026-05-14T22:52:20.622734+00:00"
+    "referenced_files": 746,
+    "existing_media_files": 745,
+    "total_size_mb": 258.35,
+    "last_calculation": "2026-05-14T23:43:27.794876+00:00"
   }
 }
