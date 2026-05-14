@@ -8965,6 +8965,51 @@
     ],
     "Break_The_Barriers": [
       {
+        "id": 1559,
+        "text": "فقط کافیه اپلیکیشن رو نصب کنید، ابتدا وارد Options بشید و سپس More Options رو انتخاب کنید.\nدر قسمت Connection Protocol، گزینه‌ی CDN Fronting رو انتخاب کنید و در انتها به صفحه‌ی اصلی بازگشته و Start را بزنید.\n@break_the_barriers",
+        "date": "2026-05-14T11:25:46+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1559_0_fefd9a2d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1559_1_aa1c142d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Break_The_Barriers/1559"
+      },
+      {
+        "id": 1558,
+        "text": "نسخه 2026.05.14 کلاینت ShiroKhorshid Android منتشر شد.\nدر این آپدیت، قابلیت CDN Domain Fronting مستقیماً به هسته برنامه اضافه شده و دیگر نیازی به xray، cert و تنظیمات جانبی نیست.\nGitHub:\nhttps://github.com/shirokhorshid/shirokhorshid-android\nلینک دانلود دانلود داخلی، بدون نیاز به فیلترشکن:\nhttps://punkpaste.ir/f/ShirOKhorshid-2026-0-ghmata\n@break_the_barriers",
+        "date": "2026-05-14T11:16:25+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1558_0_fefd9a2d.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://github.com/shirokhorshid/shirokhorshid-android",
+            "type": "github",
+            "display_text": "https://github.com/shirokhorshid/shirokhorshid-android"
+          },
+          {
+            "url": "https://punkpaste.ir/f/ShirOKhorshid-2026-0-ghmata",
+            "type": "external",
+            "display_text": "https://punkpaste.ir/f/ShirOKhorshid-2026-0-ghmata"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/Break_The_Barriers/1558"
+      },
+      {
         "id": 1557,
         "text": "بالای ١ ترابایت ترافیک، فقط طی ١۴ ساعت از زمان ریست سرورها ثبت شده.",
         "date": "2026-05-14T06:38:55+00:00",
@@ -9885,22 +9930,22 @@
       }
     ]
   },
-  "last_update": "2026-05-14T10:39:10.265505+00:00",
+  "last_update": "2026-05-14T12:21:14.442800+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
-    "total_posts": 586,
-    "total_media": 730,
-    "total_files": 730,
-    "total_links": 130,
+    "total_posts": 588,
+    "total_media": 733,
+    "total_files": 733,
+    "total_links": 132,
     "files_by_type": {
-      "image": 672,
+      "image": 675,
       "file": 17,
       "video": 40,
       "document": 1
     },
-    "referenced_files": 730,
-    "existing_media_files": 729,
-    "total_size_mb": 258.14,
-    "last_calculation": "2026-05-14T10:39:10.274072+00:00"
+    "referenced_files": 733,
+    "existing_media_files": 732,
+    "total_size_mb": 258.19,
+    "last_calculation": "2026-05-14T12:21:14.450153+00:00"
   }
 }
