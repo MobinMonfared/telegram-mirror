@@ -8965,6 +8965,96 @@
     ],
     "Break_The_Barriers": [
       {
+        "id": 1583,
+        "text": "یک‌نفر: این آقا تشنه است، براش یک لیوان آب بیارید.\nایرانی: فکر نمی‌کنید تهیه یک پلاکارد «من تشنه هستم» کمک بهتری باشه؟",
+        "date": "2026-05-15T08:13:35+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1583_0_45e4b39b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Break_The_Barriers/1583"
+      },
+      {
+        "id": 1582,
+        "text": "دوستی هم از روی نیت خیر(ان‌شاءالله!) نوشته بود که من می‌خوام کمک کنم، چی‌کار کنم؟\nریپلای داده بودن که برای بچه‌های ایران تیک آبی بخر.\n😂\n🤦🏻‍♂️\nبچه‌های ایران تیک آبی نمی‌خوان،\nاینترنت می‌خوان!",
+        "date": "2026-05-15T08:10:39+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1582_0_45e4b39b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Break_The_Barriers/1582"
+      },
+      {
+        "id": 1581,
+        "text": "تیک آبی توییتر که با پول خریدند، بهشون توهم داده که شخص خاصی هستند و همه باید از اون‌ها تبعیت کنند!",
+        "date": "2026-05-15T08:08:33+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1581_0_45e4b39b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Break_The_Barriers/1581"
+      },
+      {
+        "id": 1580,
+        "text": "یک‌سری هم هستند که خودشون هیچ آورده‌ای ندارند، اما تا دلتون بخواد به همه‌چیز مشکوکن و در مورد همه‌چیز نظر می‌دن!\nمثال؟ ایرادهایی که از اپ شیر و خورشید در توییتر گرفتن رو نگاه بی‌اندازید.\nبس کن ایرانی.",
+        "date": "2026-05-15T08:07:17+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1580_0_45e4b39b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Break_The_Barriers/1580"
+      },
+      {
+        "id": 1579,
+        "text": "کمی زمان بدید بهش، وصل می‌‌شه.\nتست کردم و الآن دارم باهاش پیام می‌دم.",
+        "date": "2026-05-15T07:57:48+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1579_0_45e4b39b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Break_The_Barriers/1579"
+      },
+      {
+        "id": 1578,
+        "text": "اگر شیر و خورشید برای شما وصل نمی‌شود، طبق راهنمای زیر عمل کنید.\nوارد بخش Options\n⚙️\nاپلیکیشن شوید، گزینه‌ی More Options را انتخاب کنید و در قسمت CDN Edge IPs، لیست زیر را وارد کرده و OK را بزنید.\n185.200.232.8\n185.200.232.9\n185.200.232.11\n185.200.232.16\n185.200.232.17\n185.200.232.19\n185.200.232.24\n185.200.232.25\n185.200.232.26\n185.200.232.34\n185.200.232.40\n185.200.232.42\n185.200.232.43\n185.200.232.49\n185.200.232.56\n185.200.232.57\n185.200.232.58\n185.200.232.64\n185.200.232.65\n185.200.232.66\n185.200.232.67\nدر نهایت به صفحه‌ی اصلی بازگشته و Start را بزنید.\n@break_the_barriers",
+        "date": "2026-05-15T07:57:11+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1578_0_45e4b39b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Break_The_Barriers/1578"
+      },
+      {
         "id": 1576,
         "text": "",
         "date": "2026-05-14T22:57:12+00:00",
@@ -10124,22 +10214,22 @@
       }
     ]
   },
-  "last_update": "2026-05-15T05:53:02.986869+00:00",
+  "last_update": "2026-05-15T08:34:04.019676+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
-    "total_posts": 599,
-    "total_media": 746,
-    "total_files": 746,
+    "total_posts": 605,
+    "total_media": 752,
+    "total_files": 752,
     "total_links": 136,
     "files_by_type": {
-      "image": 688,
+      "image": 694,
       "file": 17,
       "video": 40,
       "document": 1
     },
-    "referenced_files": 746,
-    "existing_media_files": 745,
-    "total_size_mb": 258.35,
-    "last_calculation": "2026-05-15T05:53:02.994209+00:00"
+    "referenced_files": 752,
+    "existing_media_files": 751,
+    "total_size_mb": 258.39,
+    "last_calculation": "2026-05-15T08:34:04.029183+00:00"
   }
 }
