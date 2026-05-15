@@ -8965,6 +8965,21 @@
     ],
     "Break_The_Barriers": [
       {
+        "id": 1592,
+        "text": "یک خرید آنلاین دارم؛ به این فکر می‌کنم که چه‌قدر باید اینترنت صرف کنم، تا بتونم چیزی که می‌خوام رو پیدا کنم و خریدم رو انجام بدم!\nبعد می‌گن سر هر چیزی به آخوند فحش نده.",
+        "date": "2026-05-15T17:15:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1592_0_a2e8d4d9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Break_The_Barriers/1592"
+      },
+      {
         "id": 1591,
         "text": "این‌قدر با عجله تایپ کرده که پولش رو نقد کنه، همه‌اش رو غلط نوشته.",
         "date": "2026-05-15T09:35:15+00:00",
@@ -10293,22 +10308,22 @@
       }
     ]
   },
-  "last_update": "2026-05-15T15:33:37.032520+00:00",
+  "last_update": "2026-05-15T17:18:14.648008+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
-    "total_posts": 610,
-    "total_media": 758,
-    "total_files": 758,
+    "total_posts": 611,
+    "total_media": 759,
+    "total_files": 759,
     "total_links": 136,
     "files_by_type": {
-      "image": 700,
+      "image": 701,
       "file": 17,
       "video": 40,
       "document": 1
     },
-    "referenced_files": 758,
-    "existing_media_files": 757,
+    "referenced_files": 759,
+    "existing_media_files": 758,
     "total_size_mb": 258.47,
-    "last_calculation": "2026-05-15T15:33:37.042466+00:00"
+    "last_calculation": "2026-05-15T17:18:14.657517+00:00"
   }
 }
