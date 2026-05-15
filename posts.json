@@ -8965,6 +8965,55 @@
     ],
     "Break_The_Barriers": [
       {
+        "id": 1591,
+        "text": "این‌قدر با عجله تایپ کرده که پولش رو نقد کنه، همه‌اش رو غلط نوشته.",
+        "date": "2026-05-15T09:35:15+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1591_0_45e4b39b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Break_The_Barriers/1591"
+      },
+      {
+        "id": 1590,
+        "text": "این اکانت نه تنها طرفدار پهلوی نیست، بلکه صاحبش قطعاً آخونده.",
+        "date": "2026-05-15T09:34:29+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1590_0_45e4b39b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1590_1_d1befb9f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Break_The_Barriers/1590"
+      },
+      {
+        "id": 1589,
+        "text": "اون زمانی که\n@patterniha\nروش sni spoof رو معرفی کرد، گفتم ایول، الآن هم همین‌طور.\nکاری کرد که مثال بارز این ضرب المثل شد:\n«دیگی که واسه ما نجوشه، می‌خوایم سر سگ توش بجوشه»\nهرچی وایت داشتن مجبور شدن ببندن و خودشون هم لنگ بمونن.",
+        "date": "2026-05-15T09:19:25+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1589_0_45e4b39b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Break_The_Barriers/1589"
+      },
+      {
         "id": 1586,
         "text": "بعد همون کانال، 130 هزار تا دنبال کننده داره. :))\nبعد می‌گید چرا می‌گی «ایرانی»\nخب به‌خاطر همین کارهاتون.",
         "date": "2026-05-15T08:45:47+00:00",
@@ -10244,22 +10293,22 @@
       }
     ]
   },
-  "last_update": "2026-05-15T08:49:20.806482+00:00",
+  "last_update": "2026-05-15T11:09:22.019399+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
-    "total_posts": 607,
-    "total_media": 754,
-    "total_files": 754,
+    "total_posts": 610,
+    "total_media": 758,
+    "total_files": 758,
     "total_links": 136,
     "files_by_type": {
-      "image": 696,
+      "image": 700,
       "file": 17,
       "video": 40,
       "document": 1
     },
-    "referenced_files": 754,
-    "existing_media_files": 753,
-    "total_size_mb": 258.41,
-    "last_calculation": "2026-05-15T08:49:20.815380+00:00"
+    "referenced_files": 758,
+    "existing_media_files": 757,
+    "total_size_mb": 258.47,
+    "last_calculation": "2026-05-15T11:09:22.028980+00:00"
   }
 }
