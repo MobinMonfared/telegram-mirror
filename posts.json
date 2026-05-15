@@ -8965,6 +8965,36 @@
     ],
     "Break_The_Barriers": [
       {
+        "id": 1586,
+        "text": "بعد همون کانال، 130 هزار تا دنبال کننده داره. :))\nبعد می‌گید چرا می‌گی «ایرانی»\nخب به‌خاطر همین کارهاتون.",
+        "date": "2026-05-15T08:45:47+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1586_0_45e4b39b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Break_The_Barriers/1586"
+      },
+      {
+        "id": 1585,
+        "text": "ادمین کانال maznet فقط یک صفحه باز گذاشته و اختصاص داده به کانال من، در لحظه کپی می‌کنه و می‌ذاره.\nشما یک سر برو کانالش، ده پونزده تا پست آخرش مال منه.",
+        "date": "2026-05-15T08:45:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1585_0_45e4b39b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Break_The_Barriers/1585"
+      },
+      {
         "id": 1583,
         "text": "یک‌نفر: این آقا تشنه است، براش یک لیوان آب بیارید.\nایرانی: فکر نمی‌کنید تهیه یک پلاکارد «من تشنه هستم» کمک بهتری باشه؟",
         "date": "2026-05-15T08:13:35+00:00",
@@ -10214,22 +10244,22 @@
       }
     ]
   },
-  "last_update": "2026-05-15T08:34:04.019676+00:00",
+  "last_update": "2026-05-15T08:49:20.806482+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
-    "total_posts": 605,
-    "total_media": 752,
-    "total_files": 752,
+    "total_posts": 607,
+    "total_media": 754,
+    "total_files": 754,
     "total_links": 136,
     "files_by_type": {
-      "image": 694,
+      "image": 696,
       "file": 17,
       "video": 40,
       "document": 1
     },
-    "referenced_files": 752,
-    "existing_media_files": 751,
-    "total_size_mb": 258.39,
-    "last_calculation": "2026-05-15T08:34:04.029183+00:00"
+    "referenced_files": 754,
+    "existing_media_files": 753,
+    "total_size_mb": 258.41,
+    "last_calculation": "2026-05-15T08:49:20.815380+00:00"
   }
 }
