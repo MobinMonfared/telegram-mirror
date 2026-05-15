@@ -8965,6 +8965,21 @@
     ],
     "Break_The_Barriers": [
       {
+        "id": 1595,
+        "text": "کانفیگ NULL + SSH سرور یک و دو رو با ریزالورها و تنظیمات زیر تست کنید.\nDNS Resolver:\n2.188.21.130:53,2.188.21.200:53,2.188.21.90:53,2.188.21.190:53,2.188.21.100:53,2.188.21.120:53,2.188.21.240:53\nSlipNet:\nMTU: 1500\nMAX Channels: 64\nConfig:\nVayDNS NULL + SSH\nResolver Mode: Reliable\nQuery Lenght: 151\n@break_the_barriers",
+        "date": "2026-05-15T22:16:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1595_0_a2e8d4d9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Break_The_Barriers/1595"
+      },
+      {
         "id": 1593,
         "text": "I feel emotionally exhausted.",
         "date": "2026-05-15T20:35:49+00:00",
@@ -10323,22 +10338,22 @@
       }
     ]
   },
-  "last_update": "2026-05-15T21:45:11.813451+00:00",
+  "last_update": "2026-05-15T22:41:41.004397+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
-    "total_posts": 612,
-    "total_media": 760,
-    "total_files": 760,
+    "total_posts": 613,
+    "total_media": 761,
+    "total_files": 761,
     "total_links": 136,
     "files_by_type": {
-      "image": 702,
+      "image": 703,
       "file": 17,
       "video": 40,
       "document": 1
     },
-    "referenced_files": 760,
-    "existing_media_files": 759,
-    "total_size_mb": 258.48,
-    "last_calculation": "2026-05-15T21:45:11.823248+00:00"
+    "referenced_files": 761,
+    "existing_media_files": 760,
+    "total_size_mb": 258.49,
+    "last_calculation": "2026-05-15T22:41:41.013870+00:00"
   }
 }
