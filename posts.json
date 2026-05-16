@@ -8965,6 +8965,21 @@
     ],
     "Break_The_Barriers": [
       {
+        "id": 1598,
+        "text": "پسورد جدید جهت اتصال به کانفیگ‌های کانال\n🚨\nپسورد کانفیگ‌ها ساعت ۱٢ تغییر خواهد کرد.  Password: zV6n7NKZT1mvS8PZ  @break_the_barriers",
+        "date": "2026-05-16T07:35:24+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1598_0_a2e8d4d9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Break_The_Barriers/1598"
+      },
+      {
         "id": 1597,
         "text": "پسورد جدید جهت اتصال به کانفیگ‌های کانال  تاریخ: ٢۶ اردی‌بهشت‌ماه  بر روی علامت مداد\n🖋️\nکانفیگ بزنید و در انتهای تنظیمات، در بخش Credentials، پسورد را وارد کنید.  Password: R2oV7LqZxF1M9cWa  @break_the_barriers",
         "date": "2026-05-16T06:52:31+00:00",
@@ -10372,22 +10387,22 @@
       }
     ]
   },
-  "last_update": "2026-05-16T07:09:17.529636+00:00",
+  "last_update": "2026-05-16T08:04:55.129646+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
-    "total_posts": 615,
-    "total_media": 764,
-    "total_files": 764,
+    "total_posts": 616,
+    "total_media": 765,
+    "total_files": 765,
     "total_links": 136,
     "files_by_type": {
-      "image": 706,
+      "image": 707,
       "file": 17,
       "video": 40,
       "document": 1
     },
-    "referenced_files": 764,
-    "existing_media_files": 763,
+    "referenced_files": 765,
+    "existing_media_files": 764,
     "total_size_mb": 258.51,
-    "last_calculation": "2026-05-16T07:09:17.539085+00:00"
+    "last_calculation": "2026-05-16T08:04:55.139389+00:00"
   }
 }
