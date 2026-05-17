@@ -8965,6 +8965,25 @@
     ],
     "Break_The_Barriers": [
       {
+        "id": 1603,
+        "text": "میزان ترافیک سرورها بعد از دو روز که هر دو رو بردم پشت کلاودفلر، گویای اینه که هم‌چنان تعداد بسیار زیادی متصل هستن.\nاگر امنیت شما قبلاً ٩٩ بود، الآن ١٠٠ ئه.\n🥳",
+        "date": "2026-05-17T18:15:52+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1603_0_dddffabe.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1603_1_06bfe346.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Break_The_Barriers/1603"
+      },
+      {
         "id": 1602,
         "text": "مرسی از ایمان که این‌ها رو فرستاد.\n🙏🏻\n❤️",
         "date": "2026-05-16T10:39:22+00:00",
@@ -10451,22 +10470,22 @@
       }
     ]
   },
-  "last_update": "2026-05-17T17:44:46.919233+00:00",
+  "last_update": "2026-05-17T18:48:11.512146+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
-    "total_posts": 620,
-    "total_media": 770,
-    "total_files": 770,
+    "total_posts": 621,
+    "total_media": 772,
+    "total_files": 772,
     "total_links": 136,
     "files_by_type": {
-      "image": 712,
+      "image": 714,
       "file": 17,
       "video": 40,
       "document": 1
     },
-    "referenced_files": 770,
-    "existing_media_files": 769,
-    "total_size_mb": 258.54,
-    "last_calculation": "2026-05-17T17:44:46.929164+00:00"
+    "referenced_files": 772,
+    "existing_media_files": 771,
+    "total_size_mb": 258.6,
+    "last_calculation": "2026-05-17T18:48:11.521411+00:00"
   }
 }
