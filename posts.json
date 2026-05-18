@@ -8965,6 +8965,59 @@
     ],
     "Break_The_Barriers": [
       {
+        "id": 1606,
+        "text": "الآن تغیییر ندید، ساعت ١۴ به بعد تغییر بدید. :))",
+        "date": "2026-05-18T09:00:04+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1606_0_dddffabe.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Break_The_Barriers/1606"
+      },
+      {
+        "id": 1605,
+        "text": "پسورد جدید جهت اتصال به کانفیگ‌های کانال  تاریخ: ٢۶ اردی‌بهشت‌ماه  بر روی علامت مداد\n🖋️\nکانفیگ بزنید و در انتهای تنظیمات، در بخش Credentials، پسورد را وارد کنید.  Password: zV6n7NKZT1mvS8PZ  @break_the_barriers",
+        "date": "2026-05-18T08:59:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1605_0_dddffabe.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1605_1_1804964c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Break_The_Barriers/1605"
+      },
+      {
+        "id": 1604,
+        "text": "سر صبح همچین پیامی گرفتم و مگه می‌شه حالم خوب نباشه؟\n😍",
+        "date": "2026-05-18T06:56:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1604_0_dddffabe.jpg"
+          },
+          {
+            "type": "image",
+            "file": "Break_The_Barriers_1604_1_e0241723.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Break_The_Barriers/1604"
+      },
+      {
         "id": 1603,
         "text": "میزان ترافیک سرورها بعد از دو روز که هر دو رو بردم پشت کلاودفلر، گویای اینه که هم‌چنان تعداد بسیار زیادی متصل هستن.\nاگر امنیت شما قبلاً ٩٩ بود، الآن ١٠٠ ئه.\n🥳",
         "date": "2026-05-17T18:15:52+00:00",
@@ -10470,22 +10523,22 @@
       }
     ]
   },
-  "last_update": "2026-05-18T06:11:41.483262+00:00",
+  "last_update": "2026-05-18T10:04:01.041611+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
-    "total_posts": 621,
-    "total_media": 772,
-    "total_files": 772,
+    "total_posts": 624,
+    "total_media": 777,
+    "total_files": 777,
     "total_links": 136,
     "files_by_type": {
-      "image": 714,
+      "image": 719,
       "file": 17,
       "video": 40,
       "document": 1
     },
-    "referenced_files": 772,
-    "existing_media_files": 771,
-    "total_size_mb": 258.6,
-    "last_calculation": "2026-05-18T06:11:41.493265+00:00"
+    "referenced_files": 777,
+    "existing_media_files": 776,
+    "total_size_mb": 258.66,
+    "last_calculation": "2026-05-18T10:04:01.051114+00:00"
   }
 }
